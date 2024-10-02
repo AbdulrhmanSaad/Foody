@@ -1,0 +1,1145 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\FoodOrdering.bundle.scp.css",
+      "PackagePath": "staticwebassets\\FoodOrdering.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\assets\\css\\animate.css\\css\\animate.css",
+      "PackagePath": "staticwebassets\\assets\\css\\animate.css\\css\\animate.css"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\assets\\css\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\assets\\css\\jquery.mCustomScrollbar.css",
+      "PackagePath": "staticwebassets\\assets\\css\\jquery.mCustomScrollbar.css"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\assets\\css\\morris.js\\css\\morris.css",
+      "PackagePath": "staticwebassets\\assets\\css\\morris.js\\css\\morris.css"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\assets\\icon\\icofont\\css\\icofont.css",
+      "PackagePath": "staticwebassets\\assets\\icon\\icofont\\css\\icofont.css"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\assets\\icon\\icofont\\fonts\\icofont.eot",
+      "PackagePath": "staticwebassets\\assets\\icon\\icofont\\fonts\\icofont.eot"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\assets\\icon\\icofont\\fonts\\icofont.svg",
+      "PackagePath": "staticwebassets\\assets\\icon\\icofont\\fonts\\icofont.svg"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\assets\\icon\\icofont\\fonts\\icofont.ttf",
+      "PackagePath": "staticwebassets\\assets\\icon\\icofont\\fonts\\icofont.ttf"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\assets\\icon\\icofont\\fonts\\icofont.woff",
+      "PackagePath": "staticwebassets\\assets\\icon\\icofont\\fonts\\icofont.woff"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\assets\\icon\\themify-icons\\fonts\\themify.eot",
+      "PackagePath": "staticwebassets\\assets\\icon\\themify-icons\\fonts\\themify.eot"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\assets\\icon\\themify-icons\\fonts\\themify.svg",
+      "PackagePath": "staticwebassets\\assets\\icon\\themify-icons\\fonts\\themify.svg"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\assets\\icon\\themify-icons\\fonts\\themify.ttf",
+      "PackagePath": "staticwebassets\\assets\\icon\\themify-icons\\fonts\\themify.ttf"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\assets\\icon\\themify-icons\\fonts\\themify.woff",
+      "PackagePath": "staticwebassets\\assets\\icon\\themify-icons\\fonts\\themify.woff"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\assets\\icon\\themify-icons\\themify-icons.css",
+      "PackagePath": "staticwebassets\\assets\\icon\\themify-icons\\themify-icons.css"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\assets\\images\\auth\\Logo-small-bottom.png",
+      "PackagePath": "staticwebassets\\assets\\images\\auth\\Logo-small-bottom.png"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\assets\\images\\auth\\logo-dark.png",
+      "PackagePath": "staticwebassets\\assets\\images\\auth\\logo-dark.png"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\assets\\images\\auth\\logo.png",
+      "PackagePath": "staticwebassets\\assets\\images\\auth\\logo.png"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\assets\\images\\avatar-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\avatar-1.jpg"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\assets\\images\\avatar-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\avatar-2.jpg"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\assets\\images\\avatar-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\avatar-3.jpg"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\assets\\images\\avatar-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\avatar-4.jpg"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\assets\\images\\bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bg.jpg"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\assets\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\assets\\images\\favicon.ico"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\assets\\images\\flags\\ENGLISH.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\ENGLISH.jpg"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\assets\\images\\flags\\FRANCE.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\FRANCE.jpg"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\assets\\images\\flags\\PORTO.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\PORTO.jpg"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\assets\\images\\flags\\SPAIN.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\SPAIN.jpg"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\assets\\images\\logo.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo.png"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\assets\\images\\mega-menu\\01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\mega-menu\\01.jpg"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\assets\\images\\mega-menu\\02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\mega-menu\\02.jpg"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\assets\\images\\mega-menu\\03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\mega-menu\\03.jpg"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\assets\\images\\mega-menu\\04.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\mega-menu\\04.jpg"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\assets\\images\\mega-menu\\05.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\mega-menu\\05.jpg"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\assets\\images\\mega-menu\\06.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\mega-menu\\06.jpg"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\assets\\images\\pattern2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\pattern2.jpg"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\assets\\images\\user.png",
+      "PackagePath": "staticwebassets\\assets\\images\\user.png"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\assets\\js\\SmoothScroll.js",
+      "PackagePath": "staticwebassets\\assets\\js\\SmoothScroll.js"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\assets\\js\\bootstrap-growl.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap-growl.min.js"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\assets\\js\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\assets\\js\\classie.js",
+      "PackagePath": "staticwebassets\\assets\\js\\classie.js"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\assets\\js\\classie\\classie.js",
+      "PackagePath": "staticwebassets\\assets\\js\\classie\\classie.js"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\assets\\js\\common-pages.js",
+      "PackagePath": "staticwebassets\\assets\\js\\common-pages.js"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\assets\\js\\demo-12.js",
+      "PackagePath": "staticwebassets\\assets\\js\\demo-12.js"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\assets\\js\\jquery-slimscroll\\jquery.slimscroll.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery-slimscroll\\jquery.slimscroll.js"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\assets\\js\\jquery-ui\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery-ui\\jquery-ui.min.js"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\assets\\js\\jquery.mCustomScrollbar.concat.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.mCustomScrollbar.concat.min.js"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\assets\\js\\jquery.mousewheel.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.mousewheel.min.js"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\assets\\js\\jquery\\jquery.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\assets\\js\\modernizr\\css-scrollbars.js",
+      "PackagePath": "staticwebassets\\assets\\js\\modernizr\\css-scrollbars.js"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\assets\\js\\modernizr\\modernizr.js",
+      "PackagePath": "staticwebassets\\assets\\js\\modernizr\\modernizr.js"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\assets\\js\\morris.js\\morris.js",
+      "PackagePath": "staticwebassets\\assets\\js\\morris.js\\morris.js"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\assets\\js\\pcoded.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pcoded.min.js"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\assets\\js\\popper.js\\popper.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\popper.js\\popper.min.js"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\assets\\js\\raphael\\raphael.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\raphael\\raphael.min.js"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\assets\\js\\script.js",
+      "PackagePath": "staticwebassets\\assets\\js\\script.js"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\assets\\js\\script.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\script.min.js"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\assets\\pages\\accordion\\accordion.js",
+      "PackagePath": "staticwebassets\\assets\\pages\\accordion\\accordion.js"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\assets\\pages\\accordion\\accordion.min.js",
+      "PackagePath": "staticwebassets\\assets\\pages\\accordion\\accordion.min.js"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\assets\\pages\\chart\\morris\\morris-custom-chart.js",
+      "PackagePath": "staticwebassets\\assets\\pages\\chart\\morris\\morris-custom-chart.js"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\assets\\pages\\dashboard\\amchart\\css\\amchart.css",
+      "PackagePath": "staticwebassets\\assets\\pages\\dashboard\\amchart\\css\\amchart.css"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\assets\\pages\\dashboard\\amchart\\css\\export.css",
+      "PackagePath": "staticwebassets\\assets\\pages\\dashboard\\amchart\\css\\export.css"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\assets\\pages\\dashboard\\amchart\\js\\amcharts.js",
+      "PackagePath": "staticwebassets\\assets\\pages\\dashboard\\amchart\\js\\amcharts.js"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\assets\\pages\\dashboard\\amchart\\js\\custom-amchart.js",
+      "PackagePath": "staticwebassets\\assets\\pages\\dashboard\\amchart\\js\\custom-amchart.js"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\assets\\pages\\dashboard\\amchart\\js\\export.min.js",
+      "PackagePath": "staticwebassets\\assets\\pages\\dashboard\\amchart\\js\\export.min.js"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\assets\\pages\\dashboard\\amchart\\js\\images\\dragIconRoundBig.svg",
+      "PackagePath": "staticwebassets\\assets\\pages\\dashboard\\amchart\\js\\images\\dragIconRoundBig.svg"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\assets\\pages\\dashboard\\amchart\\js\\images\\dragIconRoundBigH.svg",
+      "PackagePath": "staticwebassets\\assets\\pages\\dashboard\\amchart\\js\\images\\dragIconRoundBigH.svg"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\assets\\pages\\dashboard\\amchart\\js\\light.js",
+      "PackagePath": "staticwebassets\\assets\\pages\\dashboard\\amchart\\js\\light.js"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\assets\\pages\\dashboard\\amchart\\js\\serial.js",
+      "PackagePath": "staticwebassets\\assets\\pages\\dashboard\\amchart\\js\\serial.js"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\assets\\pages\\dashboard\\custom-dashboard.js",
+      "PackagePath": "staticwebassets\\assets\\pages\\dashboard\\custom-dashboard.js"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\assets\\pages\\google-maps\\gmaps.min.js",
+      "PackagePath": "staticwebassets\\assets\\pages\\google-maps\\gmaps.min.js"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\assets\\pages\\google-maps\\jquery.gmaps.js",
+      "PackagePath": "staticwebassets\\assets\\pages\\google-maps\\jquery.gmaps.js"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\assets\\pages\\icon-modal.js",
+      "PackagePath": "staticwebassets\\assets\\pages\\icon-modal.js"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\assets\\pages\\notification\\notification.css",
+      "PackagePath": "staticwebassets\\assets\\pages\\notification\\notification.css"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\assets\\pages\\notification\\notification.js",
+      "PackagePath": "staticwebassets\\assets\\pages\\notification\\notification.js"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\assets\\pages\\todo\\todo.js",
+      "PackagePath": "staticwebassets\\assets\\pages\\todo\\todo.js"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\assets\\pages\\widget\\amchart\\amcharts.js",
+      "PackagePath": "staticwebassets\\assets\\pages\\widget\\amchart\\amcharts.js"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\assets\\pages\\widget\\amchart\\amcharts.min.js",
+      "PackagePath": "staticwebassets\\assets\\pages\\widget\\amchart\\amcharts.min.js"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\assets\\pages\\widget\\amchart\\ammap.js",
+      "PackagePath": "staticwebassets\\assets\\pages\\widget\\amchart\\ammap.js"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\assets\\pages\\widget\\amchart\\ammap.min.js",
+      "PackagePath": "staticwebassets\\assets\\pages\\widget\\amchart\\ammap.min.js"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\assets\\pages\\widget\\amchart\\continentsLow.js",
+      "PackagePath": "staticwebassets\\assets\\pages\\widget\\amchart\\continentsLow.js"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\assets\\pages\\widget\\amchart\\continentsLow.min.js",
+      "PackagePath": "staticwebassets\\assets\\pages\\widget\\amchart\\continentsLow.min.js"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\assets\\pages\\widget\\amchart\\gauge.js",
+      "PackagePath": "staticwebassets\\assets\\pages\\widget\\amchart\\gauge.js"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\assets\\pages\\widget\\amchart\\gauge.min.js",
+      "PackagePath": "staticwebassets\\assets\\pages\\widget\\amchart\\gauge.min.js"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\assets\\pages\\widget\\amchart\\light.js",
+      "PackagePath": "staticwebassets\\assets\\pages\\widget\\amchart\\light.js"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\assets\\pages\\widget\\amchart\\light.min.js",
+      "PackagePath": "staticwebassets\\assets\\pages\\widget\\amchart\\light.min.js"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\assets\\pages\\widget\\amchart\\pie.js",
+      "PackagePath": "staticwebassets\\assets\\pages\\widget\\amchart\\pie.js"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\assets\\pages\\widget\\amchart\\pie.min.js",
+      "PackagePath": "staticwebassets\\assets\\pages\\widget\\amchart\\pie.min.js"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\assets\\pages\\widget\\amchart\\serial.js",
+      "PackagePath": "staticwebassets\\assets\\pages\\widget\\amchart\\serial.js"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\assets\\pages\\widget\\amchart\\serial.min.js",
+      "PackagePath": "staticwebassets\\assets\\pages\\widget\\amchart\\serial.min.js"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\assets\\pages\\widget\\amchart\\worldLow.js",
+      "PackagePath": "staticwebassets\\assets\\pages\\widget\\amchart\\worldLow.js"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\assets\\pages\\widget\\amchart\\worldLow.min.js",
+      "PackagePath": "staticwebassets\\assets\\pages\\widget\\amchart\\worldLow.min.js"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\img\\Products\\278ca3a3-110c-4a4b-83e7-3965998d72b3.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\278ca3a3-110c-4a4b-83e7-3965998d72b3.jpg"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\img\\Products\\45c7686c-556c-453f-b208-3e521a3cd5fd.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\45c7686c-556c-453f-b208-3e521a3cd5fd.jpg"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\img\\Products\\47c937f6-2b83-42bc-9a59-74dcb225cf88.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\47c937f6-2b83-42bc-9a59-74dcb225cf88.jpg"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\img\\Products\\4bdd77cb-3003-4122-a433-c0c7035e49d4.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\4bdd77cb-3003-4122-a433-c0c7035e49d4.jpg"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\img\\Products\\5f9948b5-bb39-41d6-bef6-7e3ef1231421.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\5f9948b5-bb39-41d6-bef6-7e3ef1231421.jpg"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\img\\Products\\656a9f0f-d367-49f2-86ce-983d7f477db3.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\656a9f0f-d367-49f2-86ce-983d7f477db3.jpg"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\img\\Products\\6a98afea-18c0-406a-8ca8-0368bfbd2bf9.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\6a98afea-18c0-406a-8ca8-0368bfbd2bf9.jpg"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\img\\Products\\BaronChicken.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\BaronChicken.jpg"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\img\\Products\\Hummer Chicken Sandwich.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\Hummer Chicken Sandwich.jpg"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\img\\Products\\Rocky chicken.png",
+      "PackagePath": "staticwebassets\\img\\Products\\Rocky chicken.png"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\img\\Products\\Turf chicken.png",
+      "PackagePath": "staticwebassets\\img\\Products\\Turf chicken.png"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\img\\Products\\a6348440-bfc7-4691-89a5-7dd7ff3d8d96.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\a6348440-bfc7-4691-89a5-7dd7ff3d8d96.jpg"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\img\\Products\\ab04bc10-67ea-4393-94b2-03bf8b957a6f.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\ab04bc10-67ea-4393-94b2-03bf8b957a6f.jpg"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\img\\Products\\b2bca1d2-9793-4f10-9084-6252a7c8e973.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\b2bca1d2-9793-4f10-9084-6252a7c8e973.jpg"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\img\\Products\\burger1.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\burger1.jpg"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\img\\Products\\burger4.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\burger4.jpg"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\img\\Products\\burger44.png",
+      "PackagePath": "staticwebassets\\img\\Products\\burger44.png"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\img\\Products\\burger45.png",
+      "PackagePath": "staticwebassets\\img\\Products\\burger45.png"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\img\\Products\\burger6.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\burger6.jpg"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\img\\Products\\c4682e88-bc83-46cb-bd99-7ef972cd12aa.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\c4682e88-bc83-46cb-bd99-7ef972cd12aa.jpg"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\img\\Products\\dafe8574-4610-49e9-8117-4d1b107ea60b.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\dafe8574-4610-49e9-8117-4d1b107ea60b.jpg"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\img\\Products\\e76c8cde-34b2-4214-8d67-48ece6272852.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\e76c8cde-34b2-4214-8d67-48ece6272852.jpg"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\img\\Products\\ec8db639-4d5a-472e-b7bf-7fe7b3a48ac8.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\ec8db639-4d5a-472e-b7bf-7fe7b3a48ac8.jpg"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\img\\Products\\f7d4b4c3-5933-49c0-aa48-97c3c7f0898e.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\f7d4b4c3-5933-49c0-aa48-97c3c7f0898e.jpg"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\img\\Products\\juice1.png",
+      "PackagePath": "staticwebassets\\img\\Products\\juice1.png"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\img\\Products\\juice2.png",
+      "PackagePath": "staticwebassets\\img\\Products\\juice2.png"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\img\\Products\\juice3.png",
+      "PackagePath": "staticwebassets\\img\\Products\\juice3.png"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\img\\Products\\juice4.png",
+      "PackagePath": "staticwebassets\\img\\Products\\juice4.png"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\img\\Products\\juice5.png",
+      "PackagePath": "staticwebassets\\img\\Products\\juice5.png"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\img\\Products\\magnam.png",
+      "PackagePath": "staticwebassets\\img\\Products\\magnam.png"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\img\\Products\\pizza1.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\pizza1.jpg"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\img\\Products\\pizza2.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\pizza2.jpg"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\img\\Products\\pizza3.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\pizza3.jpg"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\img\\Products\\pizza4.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\pizza4.jpg"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\img\\Products\\pizza5.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\pizza5.jpg"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\img\\Products\\pizza7.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\pizza7.jpg"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\img\\Products\\pizza8.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\pizza8.jpg"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\img\\R.jpg",
+      "PackagePath": "staticwebassets\\img\\R.jpg"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\img\\about.jpg",
+      "PackagePath": "staticwebassets\\img\\about.jpg"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\img\\bg-icon.png",
+      "PackagePath": "staticwebassets\\img\\bg-icon.png"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\img\\blog-1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog-1.jpg"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\img\\blog-2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog-2.jpg"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\img\\blog-3.jpg",
+      "PackagePath": "staticwebassets\\img\\blog-3.jpg"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\img\\carousel-1.jpg",
+      "PackagePath": "staticwebassets\\img\\carousel-1.jpg"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\img\\carousel-2.jpg",
+      "PackagePath": "staticwebassets\\img\\carousel-2.jpg"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\img\\carousel-3.jpg",
+      "PackagePath": "staticwebassets\\img\\carousel-3.jpg"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\img\\carousel-4.jpg",
+      "PackagePath": "staticwebassets\\img\\carousel-4.jpg"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\img\\carousel-5.jpg",
+      "PackagePath": "staticwebassets\\img\\carousel-5.jpg"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\img\\category\\0332cfda-c077-4cc0-ad5d-67c1ce235204.jpg",
+      "PackagePath": "staticwebassets\\img\\category\\0332cfda-c077-4cc0-ad5d-67c1ce235204.jpg"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\img\\category\\12fac86c-d077-497d-aa61-cf930e7ad157.jpg",
+      "PackagePath": "staticwebassets\\img\\category\\12fac86c-d077-497d-aa61-cf930e7ad157.jpg"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\img\\category\\185025a2-273e-401e-b26d-b617b24f3da6.png",
+      "PackagePath": "staticwebassets\\img\\category\\185025a2-273e-401e-b26d-b617b24f3da6.png"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\img\\category\\19431d86-2427-412d-a139-87fbbe48266d.jpg",
+      "PackagePath": "staticwebassets\\img\\category\\19431d86-2427-412d-a139-87fbbe48266d.jpg"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\img\\category\\19991424-7bf2-4a1c-992f-613ca7a8af91.jpg",
+      "PackagePath": "staticwebassets\\img\\category\\19991424-7bf2-4a1c-992f-613ca7a8af91.jpg"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\img\\category\\1bbc98bd-0c09-44fc-b810-c33ae16a6572.jpg",
+      "PackagePath": "staticwebassets\\img\\category\\1bbc98bd-0c09-44fc-b810-c33ae16a6572.jpg"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\img\\category\\1bc2e6ec-2a03-44f7-bbc3-e41d007d8047.png",
+      "PackagePath": "staticwebassets\\img\\category\\1bc2e6ec-2a03-44f7-bbc3-e41d007d8047.png"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\img\\category\\27e0b033-99e0-4703-8165-b85707188793.jpg",
+      "PackagePath": "staticwebassets\\img\\category\\27e0b033-99e0-4703-8165-b85707188793.jpg"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\img\\category\\2cf9d4e7-4e6f-43e7-9381-d0f0b68d1c29.png",
+      "PackagePath": "staticwebassets\\img\\category\\2cf9d4e7-4e6f-43e7-9381-d0f0b68d1c29.png"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\img\\category\\37b8c2a4-3bf6-467a-9f46-f74555ad87ef.jpg",
+      "PackagePath": "staticwebassets\\img\\category\\37b8c2a4-3bf6-467a-9f46-f74555ad87ef.jpg"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\img\\category\\437470f9-143c-4033-8e9c-41fd4afb7769.jpg",
+      "PackagePath": "staticwebassets\\img\\category\\437470f9-143c-4033-8e9c-41fd4afb7769.jpg"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\img\\category\\636e5a0e-7900-4adb-bdeb-5edc8d2e1065.jpg",
+      "PackagePath": "staticwebassets\\img\\category\\636e5a0e-7900-4adb-bdeb-5edc8d2e1065.jpg"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\img\\category\\6520d990-2637-45e5-9bbd-b4b7ab507f43.jpg",
+      "PackagePath": "staticwebassets\\img\\category\\6520d990-2637-45e5-9bbd-b4b7ab507f43.jpg"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\img\\category\\66b97fff-5066-4aed-ae7f-042498a7f642.jpg",
+      "PackagePath": "staticwebassets\\img\\category\\66b97fff-5066-4aed-ae7f-042498a7f642.jpg"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\img\\category\\6990f3c8-000a-4b38-9a7e-9ed301557942.jpg",
+      "PackagePath": "staticwebassets\\img\\category\\6990f3c8-000a-4b38-9a7e-9ed301557942.jpg"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\img\\category\\878e2bdd-1b28-4161-9eba-7c6b45066b88.png",
+      "PackagePath": "staticwebassets\\img\\category\\878e2bdd-1b28-4161-9eba-7c6b45066b88.png"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\img\\category\\917b6fcf-aab6-4862-9e60-fbb037e8b2ce.jpg",
+      "PackagePath": "staticwebassets\\img\\category\\917b6fcf-aab6-4862-9e60-fbb037e8b2ce.jpg"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\img\\category\\92a4c1bc-66f0-47fd-b340-c0dbc3fcd821.jpg",
+      "PackagePath": "staticwebassets\\img\\category\\92a4c1bc-66f0-47fd-b340-c0dbc3fcd821.jpg"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\img\\category\\99cf7663-5aa0-47fa-b612-4db6932839f8.jpg",
+      "PackagePath": "staticwebassets\\img\\category\\99cf7663-5aa0-47fa-b612-4db6932839f8.jpg"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\img\\category\\a37534d8-cafd-4296-8395-30378a163fd5.jpg",
+      "PackagePath": "staticwebassets\\img\\category\\a37534d8-cafd-4296-8395-30378a163fd5.jpg"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\img\\category\\b484775b-6c1b-49e8-a630-e1be36e41d58.jpg",
+      "PackagePath": "staticwebassets\\img\\category\\b484775b-6c1b-49e8-a630-e1be36e41d58.jpg"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\img\\category\\b6c3ef51-9d75-4fca-b8cf-f369eddc8bb3.jpg",
+      "PackagePath": "staticwebassets\\img\\category\\b6c3ef51-9d75-4fca-b8cf-f369eddc8bb3.jpg"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\img\\category\\c2bb2306-dbfb-48d9-a084-bcc3cea70f0d.jpg",
+      "PackagePath": "staticwebassets\\img\\category\\c2bb2306-dbfb-48d9-a084-bcc3cea70f0d.jpg"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\img\\category\\c2e4c6b8-c6a5-43fa-af14-02b120eec030.jpg",
+      "PackagePath": "staticwebassets\\img\\category\\c2e4c6b8-c6a5-43fa-af14-02b120eec030.jpg"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\img\\category\\d34187aa-e0b7-48a1-8b64-f448d4cffb5a.jpg",
+      "PackagePath": "staticwebassets\\img\\category\\d34187aa-e0b7-48a1-8b64-f448d4cffb5a.jpg"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\img\\category\\e0cf727c-f59d-4d62-953a-8d48469447b1.jpg",
+      "PackagePath": "staticwebassets\\img\\category\\e0cf727c-f59d-4d62-953a-8d48469447b1.jpg"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\img\\category\\eff4d520-34db-4609-b2ad-2db19ebf1c58.png",
+      "PackagePath": "staticwebassets\\img\\category\\eff4d520-34db-4609-b2ad-2db19ebf1c58.png"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\img\\category\\f8c11add-5130-4c5d-99df-916b0b0487c7.jpg",
+      "PackagePath": "staticwebassets\\img\\category\\f8c11add-5130-4c5d-99df-916b0b0487c7.jpg"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\img\\icon-1.png",
+      "PackagePath": "staticwebassets\\img\\icon-1.png"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\img\\icon-2.png",
+      "PackagePath": "staticwebassets\\img\\icon-2.png"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\img\\icon-3.png",
+      "PackagePath": "staticwebassets\\img\\icon-3.png"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\img\\meal-preparation-26326185.jpg",
+      "PackagePath": "staticwebassets\\img\\meal-preparation-26326185.jpg"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\img\\product-1.jpg",
+      "PackagePath": "staticwebassets\\img\\product-1.jpg"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\img\\product-2.jpg",
+      "PackagePath": "staticwebassets\\img\\product-2.jpg"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\img\\product-3.jpg",
+      "PackagePath": "staticwebassets\\img\\product-3.jpg"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\img\\product-4.jpg",
+      "PackagePath": "staticwebassets\\img\\product-4.jpg"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\img\\product-5.jpg",
+      "PackagePath": "staticwebassets\\img\\product-5.jpg"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\img\\product-6.jpg",
+      "PackagePath": "staticwebassets\\img\\product-6.jpg"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\img\\product-7.jpg",
+      "PackagePath": "staticwebassets\\img\\product-7.jpg"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\img\\product-8.jpg",
+      "PackagePath": "staticwebassets\\img\\product-8.jpg"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\img\\r2.jpg",
+      "PackagePath": "staticwebassets\\img\\r2.jpg"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\img\\r3.jpg",
+      "PackagePath": "staticwebassets\\img\\r3.jpg"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\img\\testimonial-1.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonial-1.jpg"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\img\\testimonial-2.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonial-2.jpg"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\img\\testimonial-3.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonial-3.jpg"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\img\\testimonial-4.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonial-4.jpg"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\js\\CategoryForm.js",
+      "PackagePath": "staticwebassets\\js\\CategoryForm.js"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\js\\ItemsFilter.js",
+      "PackagePath": "staticwebassets\\js\\ItemsFilter.js"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\js\\OrderStatus.js",
+      "PackagePath": "staticwebassets\\js\\OrderStatus.js"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\js\\cartManage.js",
+      "PackagePath": "staticwebassets\\js\\cartManage.js"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\lib\\animate\\animate.css",
+      "PackagePath": "staticwebassets\\lib\\animate\\animate.css"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\lib\\animate\\animate.min.css",
+      "PackagePath": "staticwebassets\\lib\\animate\\animate.min.css"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css.map"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\lib\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\lib\\easing\\easing.js"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\lib\\easing\\easing.min.js",
+      "PackagePath": "staticwebassets\\lib\\easing\\easing.min.js"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\lib\\owlcarousel\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\lib\\owlcarousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\owl.carousel.js"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\lib\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\lib\\sweetalert2\\sweetalert2.css",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\sweetalert2.css"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\lib\\sweetalert2\\sweetalert2.min.js",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\sweetalert2.min.js"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\lib\\waypoints\\jquery.waypoints.min.js",
+      "PackagePath": "staticwebassets\\lib\\waypoints\\jquery.waypoints.min.js"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\lib\\waypoints\\links.php",
+      "PackagePath": "staticwebassets\\lib\\waypoints\\links.php"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\lib\\waypoints\\noframework.waypoints.min.js",
+      "PackagePath": "staticwebassets\\lib\\waypoints\\noframework.waypoints.min.js"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\lib\\waypoints\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\lib\\waypoints\\waypoints.min.js"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\lib\\wow\\wow.js",
+      "PackagePath": "staticwebassets\\lib\\wow\\wow.js"
+    },
+    {
+      "Id": "D:\\visual studio\\FoodOrdering\\FoodOrdering\\wwwroot\\lib\\wow\\wow.min.js",
+      "PackagePath": "staticwebassets\\lib\\wow\\wow.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.FoodOrdering.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.FoodOrdering.props",
+      "PackagePath": "build\\FoodOrdering.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.FoodOrdering.props",
+      "PackagePath": "buildMultiTargeting\\FoodOrdering.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.FoodOrdering.props",
+      "PackagePath": "buildTransitive\\FoodOrdering.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

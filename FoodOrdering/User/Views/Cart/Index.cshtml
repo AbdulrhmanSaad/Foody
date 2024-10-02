@@ -1,0 +1,111 @@
+﻿@model FoodOrdering.Dto.PaymentDto
+
+<div class="container py-5">
+    <!-- For demo purpose -->
+    <div class="row mb-4">
+        <div class="col-lg-8 mx-auto text-center">
+            <h1 class="display-6">Payment </h1>
+        </div>
+    </div>
+    <!-- End -->
+    <div class="row">
+        <div class="col-lg-6 mx-auto">
+            <div class="card ">
+                <div class="card-header">
+                    <div class="bg-white shadow-sm pt-4 pl-2 pr-2 pb-2">
+                        <!-- Credit card form tabs -->
+                        <ul role="tablist" class="nav bg-light nav-pills rounded nav-fill mb-3">
+                            <li class="nav-item"> <a data-toggle="pill" href="#credit-card" class="nav-link active"> <i class="fas fa-credit-card mr-2"></i> Credit Card </a> </li>
+                            <li class="nav-item"> <a data-toggle="pill" href="#COD" class="nav-link"> <i class="fab fa-paypal mr-2"></i> Cash On Delivery </a> </li>
+                        </ul>
+                    </div>
+                    <!-- End -->
+                    <!-- Credit card form content -->
+                    <div class="tab-content">
+                        <!-- credit card info-->
+                        <div id="credit-card" class="tab-pane fade show active pt-3">
+                            <form asp-action="CheckOut" asp-route-method="2">
+                                <div class="form-group">
+                                    <label for="Name">
+                                        <h6>Name</h6>
+                                    </label>
+                                    <input type="text" name="Name" placeholder="Enter your name" required class="form-control ">
+                                </div>
+                                <div class="form-group">
+                                    <label for="Email">
+                                        <h6>Email</h6>
+                                    </label>
+                                    <input type="email" name="Email" placeholder="Enter your email" required class="form-control ">
+                                </div>
+                                <div class="form-group">
+                                    <label for="PhoneNumber">
+                                        <h6>Phone</h6>
+                                    </label>
+                                    <input type="tel" name="PhoneNumber" required class="form-control ">
+                                </div>
+                                <div class="form-group">
+                                    <label for="Address">
+                                        <h6>Address</h6>
+                                    </label>
+                                    <textarea type="text" name="Address" placeholder="Enter your address" required class="form-control ">
+                                </textarea>
+                                </div>
+                             
+                            
+                                <div class="card-footer"> <button type="submit" class="subscribe btn btn-primary btn-block shadow-sm"> Confirm Payment </button>
+                            </form>
+                        </div>
+                    </div> <!-- End -->
+                    <!-- COD info -->
+                    <div id="COD" class="tab-pane fade pt-3">
+                        <form asp-action="CheckOut" asp-route-method="1">
+                            <div class="form-group">
+                                <label for="Name">
+                                    <h6>Name</h6>
+                                </label>
+                                <input type="text" name="Name" placeholder="Enter your name" required class="form-control ">
+                            </div>
+                            <div class="form-group">
+                                <label for="Email">
+                                    <h6>Email</h6>
+                                </label>
+                                <input type="email" name="Email" placeholder="Enter your email" required class="form-control ">
+                            </div>
+                            <div class="form-group">
+                                <label for="PhoneNumber">
+                                    <h6>Phone</h6>
+                                </label>
+                                <input type="tel" name="PhoneNumber" required class="form-control ">
+                            </div>
+                            <div class="form-group">
+                                <label for="Address">
+                                    <h6>Address</h6>
+                                </label>
+                                <textarea type="text" name="Address" placeholder="Enter your address" required class="form-control ">
+                                </textarea>
+                            </div>
+                            <div class="card-footer"> <button type="submit" class="subscribe btn btn-primary btn-block shadow-sm"> Confirm Payment </button></div>
+
+                        </form>
+                    </div> <!-- End -->
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    @section Scripts {
+
+
+
+        <script src=" https://stackpath.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.bundle.min.js">
+
+        </script>
+
+
+        <script>
+            $(function () {
+                $('[data-toggle="tooltip"]').tooltip()
+            })
+        </script>
+    }

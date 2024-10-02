@@ -1,0 +1,106 @@
+﻿@model List<Order>
+
+@{
+    ViewData["Title"] = "All Orders";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+
+}
+
+
+@if(Model!=null && Model.Count()>0){
+
+<div class="row my-2">
+   <table class="table">
+       <thead>
+       <tr>
+           <th>Order Date</th>
+           <th>Name</th>
+           <th>Address</th>
+           <th>Order Status</th>
+           <th>Total Price</th>
+           <th>Payment Method</th>
+
+            <th>Actions</th>
+
+             
+       </tr>
+            </thead>
+            <tbody>
+       @foreach (var item in Model)
+        {
+
+            <tr>
+                <td>@item.CreatedDate</td>
+                <td>@item.Paymant.Name</td>
+                <td>@item.Paymant.Address</td>
+
+
+                <td>
+                    @if(@item.OrderStatus.StatusName=="Delivered"){
+                            <button type="button" class="btn btn-success" data-toggle="modal" data-target="#updateStatusModal" onclick="openModal(@item.Id)">
+                                @item.OrderStatus.StatusName
+                            </button>
+                    }else{
+                            <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#updateStatusModal" onclick="openModal(@item.Id)">
+                                @item.OrderStatus.StatusName
+                            </button>
+                    }
+                    </td>
+                    <td>@item.TotalOrderPrice</td>
+                <td>@(item.Paymant.PaymentMode==1?"Cash On Delivery":"Credit Card")</td>
+                <td>
+@*                             <button data-toggle="modal" data-target="#updateStatusModal" onclick="openModal(@item.Id)">Update Order Status</button>
+ *@                            <a asp-action="OrderDetails" asp-route-orderId="@item.Id">Order Details</a>
+                    
+                </td>
+            </tr>
+        }
+            </tbody>
+   </table>
+   </div>
+}
+else
+{
+    <h3>No Orders Found</h3>
+}
+
+
+<!-- Modal -->
+<div class="modal fade" id="updateStatusModal" tabindex="-1" role="dialog" aria-labelledby="updateStatusLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="updateStatusLabel">Update Order Status</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <form id="updateStatusForm" method="post" action="/AdminOrders/UpdateOrderStatus">
+                    <input type="hidden" id="orderId" name="orderId" value="" />
+                    <div class="form-group">
+                        <label for="status">Select Status</label>
+                        <select class="form-control" id="orderStatusId" name="orderStatusId">
+                            <option value="1">Pending</option>
+                            <option value="2">Shipped</option>
+                            <option value="3">Delivered</option>
+                            <option value="4">Cancelled</option>
+                            <option value="5">Returned</option>
+                            <option value="6">Refused</option>
+                        </select>
+                    </div>
+                </form>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                <button type="button" class="btn btn-primary" onclick="submitStatusForm()">Update Status</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts{
+
+    <script src="~/js/orderstatus.js"></script>
+
+}

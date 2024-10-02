@@ -1,0 +1,91 @@
+﻿
+@model StatisticData
+@{
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+<h2>Admin Dashbord</h2>
+
+
+<div class="page-body">
+    <div class="row">
+        <!-- card1 start -->
+        <div class="col-md-6 col-xl-3">
+            <div class="card widget-card-1">
+                <a class="card-block-small" asp-controller="AdminCategory">
+                    <i class="icofont icofont-muffin bg-c-blue card1-icon"></i>
+                    <span class="text-c-blue f-w-600">Categories</span>
+                    <h4>@Model.CategoriesCount</h4>
+                    <div>
+                    <span class="f-left m-t-10 text-muted">
+                    <i class="text-c-blue f-16 icofont icofont-eye-alt m-r-10"></i>View Details
+                    </span>
+                    </div>
+                </a>
+            </div>
+        </div>
+        <!-- card1 end -->
+        <!-- card1 start -->
+        <div class="col-md-6 col-xl-3">
+            <div class="card widget-card-1">
+                <a class="card-block-small" asp-controller="AdminProduct" >
+                    <i class="icofont icofont-fast-food bg-c-pink card1-icon"></i>
+                    <span class="text-c-pink f-w-600">Products</span>
+                    <h4>@Model.ProductsCount</h4>
+                    <div>
+                        <span class="f-left m-t-10 text-muted">
+                            <i class="text-c-pink f-16 icofont icofont-eye-alt m-r-10"></i>View Details
+                        </span>
+                    </div>
+                </a>
+            </div>
+        </div>
+        <!-- card1 end -->
+        <!-- card1 start -->
+        <div class="col-md-6 col-xl-3">
+            <div class="card widget-card-1">
+                <a class="card-block-small" asp-controller="ManageUsers">
+                    <i class="icofont icofont-user bg-c-green card1-icon"></i>
+                    <span class="text-c-green f-w-600">Users</span>
+                    <h4>@Model.UsersCount</h4>
+                    <div>
+                        <span class="f-left m-t-10 text-muted">
+                            <i class="text-c-green f-16 icofont icofont-eye-alt m-r-10"></i>View Details
+                        </span>
+                    </div>
+                </a>
+            </div>
+        </div>
+        <!-- card1 end -->
+        <!-- card1 start -->
+        <div class="col-md-6 col-xl-3">
+            <div class="card widget-card-1">
+                <a class="card-block-small" asp-controller="AdminOrders" asp-action="DisplayAll">
+                    <i class="icofont icofont-spoon-and-fork bg-c-yellow card1-icon"></i>
+                    <span class="text-c-yellow f-w-600">Total Orders</span>
+                    <h4>@Model.OrdersCount</h4>
+                    <div>
+                        <span class="f-left m-t-10 text-muted">
+                            <i class="text-c-yellow f-16 icofont icofont-eye-alt m-r-10"></i>View Details
+                        </span>
+                    </div>
+                </a>
+            </div>
+        </div>
+        <!-- card1 end -->
+        <!-- card1 start -->
+        <div class="col-md-6 col-xl-3">
+            <div class="card widget-card-1">
+                <div class="card-block-small">
+                    <i class="icofont icofont-money-bag bg-c-green card1-icon"></i>
+                    <span class="text-c-green f-w-600">sold Amount</span>
+                    <h4>@Model.SoldAmount EGY</h4>
+                    <div>
+                        <span class="f-left m-t-10 text-muted">
+                            <i class="text-c-green f-16 icofont icofont-eye-alt m-r-10"></i>View Details
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

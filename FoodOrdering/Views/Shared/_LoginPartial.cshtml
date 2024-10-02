@@ -1,0 +1,86 @@
+﻿@using Microsoft.AspNetCore.Identity
+@inject SignInManager<IdentityUser> SignInManager
+@inject UserManager<IdentityUser> UserManager
+<div class="collapse navbar-collapse" id="navbarCollapse">
+ <div class="navbar-nav ms-auto  p-lg-0">
+   <ul class="navbar-nav flex-grow-1">
+@if (SignInManager.IsSignedIn(User))
+{
+                <li class="nav-item">
+                    <a class="nav-link nav-item active" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link nav-item active" asp-area="" asp-controller="Product" asp-action="GetAll">Menu</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link nav-item active" asp-area="" asp-controller="Home" asp-action="Index">About Us</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link nav-item active" asp-area="" asp-controller="ContactUs" asp-action="Index">Contact Us</a>
+                </li>
+                @if (User.IsInRole("Admin"))
+                {
+                    <li class="nav-item">
+                        <a class="nav-link" asp-area="Identity" asp-page="/Account/Manage/Index" title="Manage">
+                            Hello @User.Identity?.Name!
+                            <span>(Admin)</span>
+                        </a>
+                    </li>
+                    
+                }
+                
+               
+
+
+
+
+               @*  <li class="nav-item">
+
+                    <a class="btn-sm-square bg-white rounded-circle ms-3 nav-link nav-item active" href="">
+                        <small class="fa fa-search text-body"></small>
+                    </a>
+                </li> *@
+
+                <li class="cart-icon nav-item ">
+
+                    <a class=" ms-3 nav-link nav-item active" asp-action="GetUserCart" asp-controller="Cart">
+
+                        <small class="fas fa-shopping-cart text-body"></small>
+                        <span class="cart-count" id="cartCount">0</span>
+
+
+                    </a>
+                </li>
+
+                <li class="nav-item">
+                    <a class="btn-sm-square bg-white rounded-circle ms-3 nav-link nav-item active" asp-area="Identity" asp-page="/Account/Manage/Index">
+                        <small class="fa fa-user text-body" ></small>
+                    </a>
+                </li>
+                
+
+
+                <li class="nav-item">
+                    <form class="form-inline" asp-area="Identity" asp-page="/Account/Logout" asp-route-returnUrl="@Url.Action("Index", "Home", new { area = "" })">
+                        <button type="submit" class="nav-link btn btn-link text-dark">Logout</button>
+                    </form>
+                </li>
+}
+else
+{
+               // <div class="navbar-nav ms-auto p-4 p-lg-0">
+                <li class="nav-item">
+                    <a class="nav-link text-dark" asp-area="Identity" asp-page="/Account/Register">Register</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link text-dark" asp-area="Identity" asp-page="/Account/Login">Login</a>
+                </li>
+                // </div>
+
+       
+      
+            
+}
+</ul>
+</div>
+</div>

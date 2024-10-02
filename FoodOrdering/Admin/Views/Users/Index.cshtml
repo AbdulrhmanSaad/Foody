@@ -1,0 +1,81 @@
+﻿@model IEnumerable<IdentityUser>
+
+
+@{
+    ViewData["Title"] = "Users";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+<h2>Users</h2>
+
+
+<div class="m-2">
+    <table class="table table-striped">
+        <tr>
+            <th>Name</th>
+            <th>Email</th>
+            <th>Phone</th>
+            <th>Action</th>
+        </tr>
+        @foreach(var item in Model){
+            <tr>
+                <td>@item.UserName</td>
+                <td>@item.Email</td>
+                <td>@item.PhoneNumber</td>
+                <td><a class="btn js-delete" data-id="@item.Id">Delete Account</a></td>
+            </tr>
+        }        
+    </table>
+
+</div>
+
+
+@section Scripts {
+    <script>
+
+
+
+
+        $(document).ready(function () {
+            $('.js-delete').on('click', function () {
+                var btn = $(this);
+
+
+                Swal.fire({
+                    title: "Are you sure that you need to delete this Account?",
+                    text: "You won't be able to revert this!",
+                    icon: "warning",
+                    showCancelButton: true,
+                    confirmButtonColor: "#ff0000",
+                    cancelButtonColor: "#3085d6",
+                    confirmButtonText: "Yes, delete it!"
+                }).then((result) => {
+                    if (result.isConfirmed) {
+
+                        $.ajax({
+                            url: `ManageUsers/Delete/${btn.data('id')}`,
+                            method: 'Delete',
+                            success: function () {
+                                Swal.fire({
+                                    title: "Deleted!",
+                                    text: "Account has been deleted.",
+                                    icon: "success"
+                                });
+                                btn.parents('tr').fadeOut();
+                            },
+                            error: function () {
+                                Swal.fire({
+                                    title: "Ooops!",
+                                    text: "Something went wrong.",
+                                    icon: "error"
+                                });
+                            }
+                        });
+                    }
+                });
+            });
+        });
+
+
+  
+    </script>
+}

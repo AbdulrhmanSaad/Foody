@@ -1,0 +1,79 @@
+﻿@model FoodOrdering.Models.Product
+
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<!-- Breadcrumb Begin -->
+<div class="breadcrumb-option">
+    <div class="container">
+        <div class="row">
+                <div class="section-header text-center mx-auto mb-3 mt-2 " data-wow-delay="0.1s" style="max-width: 500px;">
+                    <h2>Product detail</h2>
+                </div>
+            </div>
+        </div>
+    </div>
+<!-- Breadcrumb End -->
+<section class="product-details ">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6">
+                <div class="product__details__img">
+                    <div class="product__details__big__img ">
+                        <img class="big_img w-100" src="/img/Products/@Model.ImgeUrl" alt="">
+                    </div>
+                  
+                </div>
+            </div>
+            <div class="col-lg-6">
+                <div class="product__details__text">
+                    <div class="product__label">@Model.Category.Name</div>
+                    <h4>@Model.Name</h4>
+                    <h5>@Model.Price EGY</h5>
+                    <p>
+                        @Model.Description
+                    </p>
+                    <ul>
+                        <li>Quantity: <span>@Model.Quantity</span></li>
+                        <li>Category: <span>@Model.Category.Name</span></li>
+                    </ul>
+                    <div class="product__details__option">
+                        <div class="quantity">
+                            <div class="pro-qty">
+                                <a class="btn btn-info" onclick="Increas()">+</a>
+                                   <input type="text" value="1" id="qyt">
+                                <a class="btn btn-info" onclick="Decreas()">-</a>
+
+                            </div>
+                        </div>
+                        <button  class="btn btn-primary text-center" onclick="add(@Model.Id,document.getElementById('qyt').value)">Add to cart</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+@section Scripts{
+    <script>
+        function Increas() {
+            var qyt = document.getElementById("qyt");
+            var qtyValue = parseInt(qyt.value, 10); // Parse the input value to an integer
+            //console.log(qtyValue + 1);
+            qyt.value = qtyValue+1;
+
+        }
+        function Decreas() {
+            var qyt = document.getElementById("qyt");
+            var qtyValue = parseInt(qyt.value, 10); // Parse the input value to an integer
+            //console.log(qtyValue - 1);
+            if(qyt.value>1)
+              qyt.value = qtyValue - 1;
+
+        }
+    </script>
+    <script src="~/js/cartmanage.js"></script>
+}

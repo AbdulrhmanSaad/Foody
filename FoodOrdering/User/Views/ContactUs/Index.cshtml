@@ -1,0 +1,109 @@
+﻿@model FoodOrdering.Dto.ContactUs
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<div class="container-xxl py-6">
+    <div class="container">
+        <div class="section-header text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 500px;">
+            <h1 class="display-5 mb-3">Contact Us</h1>
+        </div>
+        <div class="row g-5 justify-content-center">
+            <div class="col-lg-5 col-md-12 wow fadeInUp" data-wow-delay="0.1s">
+                <div class="bg-primary text-white d-flex flex-column justify-content-center h-100 p-5">
+                    <h5 class="text-white">Call Us</h5>
+                    <p class="mb-5"><i class="fa fa-phone-alt me-3"></i>+012 345 67890</p>
+                    <h5 class="text-white">Email Us</h5>
+                    <p class="mb-5"><i class="fa fa-envelope me-3"></i>foody@gmail.com</p>
+                    <h5 class="text-white">Office Address</h5>
+                    <p class="mb-5"><i class="fa fa-map-marker-alt me-3"></i>123 Street, New City, Cairo</p>
+                    <h5 class="text-white">Follow Us</h5>
+                    <div class="d-flex pt-2">
+                        <a class="btn btn-square btn-outline-light rounded-circle me-1" href=""><i class="fab fa-twitter"></i></a>
+                        <a class="btn btn-square btn-outline-light rounded-circle me-1" href=""><i class="fab fa-facebook-f"></i></a>
+                        <a class="btn btn-square btn-outline-light rounded-circle me-1" href=""><i class="fab fa-youtube"></i></a>
+                        <a class="btn btn-square btn-outline-light rounded-circle me-0" href=""><i class="fab fa-linkedin-in"></i></a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-7 col-md-12 wow fadeInUp" data-wow-delay="0.5s">
+                <p class="mb-4">Have any problem just write it and we will contact you.</p>
+
+               
+
+
+                <form asp-action="SendMessage" method="post">
+                    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                    <div class="row g-3">
+                        <div class="col-md-6">
+                            <div class="form-floating">
+                                <input asp-for="Name" class="form-control" aria-required="true" placeholder="Name" />
+                                <label asp-for="Name" class="control-label"></label>
+                                <span asp-validation-for="Name" class="text-danger"></span>
+
+
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="form-floating">
+                                <input asp-for="Email" class="form-control" placeholder="Email" />
+                                <label asp-for="Email" class="control-label"></label>
+                                <span asp-validation-for="Email" class="text-danger"></span>
+
+                            </div>
+                        </div>
+                        <div class="col-12">
+                            <div class="form-floating">
+                                <input asp-for="Subject" class="form-control" placeholder="Subject">
+                                <label asp-for="Subject" class="control-label"> Subject</label>
+                            </div>
+                        </div>
+                        <div class="col-12">
+                            <div class="form-floating">
+                                <textarea asp-for="Message" class="form-control" placeholder="Leave a message here" style="height: 200px"></textarea>
+                                <label asp-for="Message" class="control-label">Message</label>
+                            </div>
+                        </div>
+                        <div class="col-12">
+                            <button type="submit" class="btn btn-primary rounded-pill py-3 px-5">Send Message</button>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Google Map Start -->
+<div class="container-xxl px-0 wow fadeIn" data-wow-delay="0.1s" style="margin-bottom: -6px;">
+
+    <iframe class="w-100" style="height: 450px;"
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d110502.85164888804!2d31.10256843260604!3d30.05939650310852!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14583fa60b21beeb%3A0x79dfb296e8423bba!2sCairo%2C%20Cairo%20Governorate%2C%20Egypt!5e0!3m2!1sen!2sbd!4v1725370393971!5m2!1sen!2sbd"
+            frameborder="0" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+</div>
+<!-- Google Map End -->
+<!-- Back to Top -->
+<a href="#" class="btn btn-lg btn-primary btn-lg-square rounded-circle back-to-top"><i class="bi bi-arrow-up"></i></a>
+
+
+@section Scripts {
+
+    @if (TempData["SuccessMessage"] != null)
+    {
+        <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+        <script>
+            Swal.fire({
+                icon: 'success',
+                title: 'Success!',
+                text: '@TempData["SuccessMessage"]',
+                confirmButtonText: 'OK'
+            });
+        </script>
+    }
+
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
+

@@ -1,0 +1,51 @@
+﻿@model FoodOrdering.Models.Product
+
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+
+}
+
+<!-- Breadcrumb Begin -->
+<div class="breadcrumb-option">
+    <div class="container">
+        <div class="row">
+            <div class="section-header text-center mx-auto mb-3 mt-2 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 500px;">
+                <h2>Product detail</h2>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Breadcrumb End -->
+<section class="product-details spad">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6">
+                <div class="product__details__img">
+                    <div class="product__details__big__img wow fadeInUp">
+                        <img class="big_img w-100" src="/img/Products/@Model.ImgeUrl" alt="">
+                    </div>
+
+                </div>
+            </div>
+            <div class="col-lg-6">
+                <div class="product__details__text wow fadeInUp">
+                    <div class="product__label">@Model.Category.Name</div>
+                    <h4>@Model.Name</h4>
+                    <h5>@Model.Price EGY</h5>
+                    <p>
+                        @Model.Description
+                    </p>
+                    <ul>
+                        <li>Quantity: <span>@Model.Quantity</span></li>
+                        <li>Category: <span>@Model.Category.Name</span></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+@section Scripts{
+    <link href="~/css/style.css" rel="stylesheet" />
+}
+
